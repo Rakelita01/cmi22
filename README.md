@@ -7,11 +7,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El Jajile Azul
 
-**Web:**   (url github.io)
+**Web:**   https://github.com/Rakelita01
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Raquel Andrades Pérez
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
